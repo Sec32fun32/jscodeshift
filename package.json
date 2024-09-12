@@ -23,10 +23,10 @@
   "author": "Felix Kling",
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "^7.24.7",
-    "@babel/parser": "^7.24.7",
+    "@babel/core": "^7.25.2",
+    "@babel/parser": "^7.25.3",
     "@babel/plugin-transform-class-properties": "^7.24.7",
-    "@babel/plugin-transform-modules-commonjs": "^7.24.7",
+    "@babel/plugin-transform-modules-commonjs": "^7.24.8",
     "@babel/plugin-transform-nullish-coalescing-operator": "^7.24.7",
     "@babel/plugin-transform-optional-chaining": "^7.24.7",
     "@babel/plugin-transform-private-methods": "^7.24.7",
