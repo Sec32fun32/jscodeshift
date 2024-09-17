@@ -36,7 +36,7 @@
     "picocolors": "^1.0.1",
     "flow-parser": "0.*",
     "graceful-fs": "^4.2.4",
-    "micromatch": "^4.0.7",
+    "micromatch": "^4.0.8",
     "neo-async": "^2.5.0",
     "recast": "^0.23.9",
     "temp": "^0.9.4",
